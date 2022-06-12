@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aX4oXdEKCDOej52QPk7ZoxblGdrC3Ku8CLpYnam63/dsCp6h2BACds/AganjozeB1BsCtQoxcCN7EWuj/v6+CA==",
+  "success": true,
+  "projectFilePath": "/Users/fatehmmmdli/Projects/SadeClass/SadeClass/AxundovKitabxanasi.csproj",
+  "expectedPackageFiles": [
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

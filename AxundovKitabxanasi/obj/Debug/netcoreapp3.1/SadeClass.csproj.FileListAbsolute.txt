@@ -1,0 +1,14 @@
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/bin/Debug/netcoreapp3.1/SadeClass
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/bin/Debug/netcoreapp3.1/SadeClass.deps.json
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/bin/Debug/netcoreapp3.1/SadeClass.runtimeconfig.json
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/bin/Debug/netcoreapp3.1/SadeClass.runtimeconfig.dev.json
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/bin/Debug/netcoreapp3.1/SadeClass.dll
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/bin/Debug/netcoreapp3.1/SadeClass.pdb
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/obj/Debug/netcoreapp3.1/SadeClass.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/obj/Debug/netcoreapp3.1/SadeClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/obj/Debug/netcoreapp3.1/SadeClass.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/obj/Debug/netcoreapp3.1/SadeClass.AssemblyInfo.cs
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/obj/Debug/netcoreapp3.1/SadeClass.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/obj/Debug/netcoreapp3.1/SadeClass.dll
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/obj/Debug/netcoreapp3.1/SadeClass.pdb
+/Users/fatehmmmdli/Projects/SadeClass/SadeClass/obj/Debug/netcoreapp3.1/SadeClass.genruntimeconfig.cache
